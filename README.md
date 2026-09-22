@@ -6,6 +6,8 @@ https://venus-dev.itch.io/venus-university
 
 The full game uses a similar workflow populated programatically to spawn a full set of character images from a single user prompt. The character creator comes with additional features like hand inpainting and single image regen, but I got requests to upload a standalone workflow, so here it is.
 
+Please note that this uses an IllustriousXL model and LORA by default. If you change the model, you may need to change the controlnet model as well, since it is specifically for illustrious.
+
 ## Sprite Generation
 
 <img width="1280" height="720" alt="Untitled-1" src="https://github.com/user-attachments/assets/c2db3ee6-b814-4144-853a-6be159f0a234" />
