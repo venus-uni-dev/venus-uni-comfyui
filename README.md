@@ -25,8 +25,8 @@ I recommend using these model files. The nodes are set to the names that I renam
 | Download page | Downloaded name | Rename to | Put in |
 | --- | --- | --- | --- |
 | [Nova Anime XL](https://civitai.com/models/376130/nova-anime-xl), version IL v19.0 | `NovaAnimeILV190.safetensors` | `novaAnimeXL_ilV190.safetensors` | `models/checkpoints` |
-| [USNR STYLE](https://civitai.com/models/176554/usnr-style?modelVersionId=1552087), version USNR_STYLE_ILL_V1.0 | USNR_STYLE_ILL_v1_lokr3-000024.safetensors | `usnrStyle.safetensors` | `models/loras` |
-| [Illustrious-XL ControlNet Openpose](https://civitai.com/models/1359846/illustrious-xl-controlnet-openpose), version v1.0 | illustriousXL_v10.safetensors | `illustriousOpenpose.safetensors` | `models/controlnet` |
+| [USNR STYLE](https://civitai.com/models/176554/usnr-style?modelVersionId=1552087), version USNR_STYLE_ILL_V1.0 | `USNR_STYLE_ILL_v1_lokr3-000024.safetensors` | `usnrStyle.safetensors` | `models/loras` |
+| [Illustrious-XL ControlNet Openpose](https://civitai.com/models/1359846/illustrious-xl-controlnet-openpose), version v1.0 | `illustriousXL_v10.safetensors` | `illustriousOpenpose.safetensors` | `models/controlnet` |
 | [Real-ESRGAN v0.2.2.4](https://github.com/xinntao/Real-ESRGAN/releases/tag/v0.2.2.4) | `RealESRGAN_x4plus_anime_6B.pth` | keep the name | `models/upscale_models` |
 | [Bingsu/adetailer](https://huggingface.co/Bingsu/adetailer) | `hand_yolov9c.pt` | keep the name | `models/ultralytics/bbox` |
 | [Anzhc/Anzhcs_YOLOs](https://huggingface.co/Anzhc/Anzhcs_YOLOs) | `Anzhc Face seg 640 v2 y8n.pt` | `Anzhc%20Face%20seg%20640%20v2%20y8n.pt` | `models/ultralytics/segm` |
