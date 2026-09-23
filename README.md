@@ -29,7 +29,7 @@ I recommend using these model files. The nodes are set to the names that I renam
 | [Illustrious-XL ControlNet Openpose](https://civitai.com/models/1359846/illustrious-xl-controlnet-openpose), version v1.0 | `illustriousXL_v10.safetensors` | `illustriousOpenpose.safetensors` | `models/controlnet` |
 | [Real-ESRGAN v0.2.2.4](https://github.com/xinntao/Real-ESRGAN/releases/tag/v0.2.2.4) | `RealESRGAN_x4plus_anime_6B.pth` | keep the name | `models/upscale_models` |
 | [Bingsu/adetailer](https://huggingface.co/Bingsu/adetailer) | `hand_yolov9c.pt` | keep the name | `models/ultralytics/bbox` |
-| [Anzhc/Anzhcs_YOLOs](https://huggingface.co/Anzhc/Anzhcs_YOLOs) | `Anzhc Face seg 640 v2 y8n.pt` | `Anzhc%20Face%20seg%20640%20v2%20y8n.pt` | `models/ultralytics/segm` |
+| [Anzhc/Anzhcs_YOLOs](https://huggingface.co/Anzhc/Anzhcs_YOLOs) | `Anzhc%20Face%20seg%20640%20v2%20y8n.pt` | keep the name (unfortunately) | `models/ultralytics/segm` |
 
 ## Setup
 
