@@ -33,6 +33,9 @@ I recommend using these model files. The nodes are set to the names that I renam
 
 ## Setup
 
+If you download the game and run through the install process, you'll actually be able to run this workflow out-of-the-box by going to data/services/comfyui/ in your game folder and doing run_nvidia_gpu.bat or run_nvidia_amd.bat. 
+
+Most people are probably here because they already have their own ComfyUI installed, though. If that's you:
 1. Install the three node packs and restart ComfyUI.
 2. Put the six model files into the appropriate folders
 3. Drop `VenusUniversityCharacter.workflow.json` onto the ComfyUI canvas.
